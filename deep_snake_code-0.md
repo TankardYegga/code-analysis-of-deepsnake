@@ -1307,7 +1307,7 @@ for i in range(self.iter):
 
 
 
-![image-20210602110613023](\imgs\image-20210602110613023.png)
+![image-20210602110613023](/imgs/image-20210602110613023.png)
 
 
 

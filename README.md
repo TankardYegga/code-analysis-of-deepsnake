@@ -1,4 +1,4 @@
-# deepsnake-code-analysis
+# code-analysis-of-deepsnake
 
 This is the code anlysis for ：
 
